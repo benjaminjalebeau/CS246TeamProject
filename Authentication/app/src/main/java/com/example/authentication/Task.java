@@ -7,13 +7,15 @@ public class Task {
     private Boolean inProgress;
     private String completedBy;
     private Boolean completed;
+    private String workingNote;
 
-    public String getTaskName() {
-        return taskName;
-    }
+
 
 
     // Getters and Setters
+    public String getTaskName() {
+        return taskName;
+    }
 
     public void setTaskName(String taskName) {
         this.taskName = taskName;
@@ -49,5 +51,13 @@ public class Task {
 
     public void setCompleted(Boolean completed) {
         this.completed = completed;
+    }
+
+    public String getWorkingNote() {
+        return workingNote;
+    }
+
+    public void setWorkingNote(String workingNote) {
+        this.workingNote = workingNote;
     }
 }

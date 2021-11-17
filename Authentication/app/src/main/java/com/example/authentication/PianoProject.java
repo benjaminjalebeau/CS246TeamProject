@@ -25,6 +25,20 @@ public class PianoProject {
         taskList.add(newTask);
     }
 
+    public void markInProgressTask(Task currentTask, Employee employee){
+        currentTask.setInProgress(true);
+    }
+
+    public void completeTask(Task currentTask, Employee employee){
+        currentTask.setCompleted(true);
+        currentTask.setCompletedBy(employee.getEmployeeName());
+    }
+
+    public void addNoteToTask(Task currentTask, String note){
+        currentTask.setWorkingNote(note);
+    }
+
+
     //Getters and Setters
     public String getSerial() {
         return serial;
