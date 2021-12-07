@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/1bbal/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_login.xml" value="0.375" />
-        <entry key="..\:/Users/1bbal/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_main.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/1bbal/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/1bbal/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/1bbal/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_project1.xml" value="0.2755208333333333" />
         <entry key="..\:/Users/1bbal/AndroidStudioProjects/Authentication/app/src/main/res/layout/activity_register.xml" value="0.375" />
+        <entry key="..\:/Users/1bbal/AndroidStudioProjects/Authentication/app/src/main/res/layout/add_new_task.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/1bbal/AndroidStudioProjects/Authentication/app/src/main/res/layout/each_task.xml" value="0.2755208333333333" />
+        <entry key="..\:/Users/1bbal/AndroidStudioProjects/Authentication/app/src/main/res/layout/project.xml" value="0.2755208333333333" />
       </map>
     </option>
   </component>
